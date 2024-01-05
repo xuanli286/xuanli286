@@ -41,5 +41,7 @@
 <br><br>
 
 ### 📈 Stats
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=xuanliii&theme=light" alt="Leetcode Badges">
-<img src="https://leetcard.jacoblin.cool/xuanliii" alt="Leetcode Stats">
+<div align="center">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=xuanliii&theme=light" alt="Leetcode Badges">
+    <img src="https://leetcard.jacoblin.cool/xuanliii" alt="Leetcode Stats">
+</div>
